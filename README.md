@@ -74,6 +74,10 @@ A JSON file in `solutions/`:
 - A result found by a team on Thinkpool belongs to the people who found it. Before anyone writes it up,
   the authors agree who is on the paper.
 
+## Work that set no record
+
+Days without a record still count here: add what you tried, how far it got and why it stopped to the attempts log. It earns no record, and it saves the next person the same days. See [ATTEMPTS.md](ATTEMPTS.md).
+
 ## Licence and sources
 
 Code Apache-2.0. The challenge definitions and targets are the Keccak team's
