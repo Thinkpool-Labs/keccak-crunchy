@@ -1,0 +1,805 @@
+{
+ "snapshot": "2026-11-27",
+ "source": "https://keccak.team/crunchy_contest.html",
+ "about": "Every cell of the Keccak Crunchy Crypto Collision and Pre-image Contest as the Keccak team lists it. open: no solution within the nominal rounds is listed. solved: the designers list one. closed: the designers closed the challenge. Only an open cell can be credited here. Only the host edits this file.",
+ "cells": [
+  {
+   "kind": "preimage",
+   "width": 200,
+   "rounds": 1,
+   "target": "e9f57f02a9b0ebd84498",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r1-w200-20130306.txt"
+   ],
+   "date": "2013-03-06",
+   "note": "found by Joan Boyar and Rene Peralta"
+  },
+  {
+   "kind": "preimage",
+   "width": 400,
+   "rounds": 1,
+   "target": "d9d6d3c84d1ac1d75f96",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r1-w400-20110729.txt"
+   ],
+   "date": "2011-07-29",
+   "note": "found by Paweł Morawiecki"
+  },
+  {
+   "kind": "preimage",
+   "width": 800,
+   "rounds": 1,
+   "target": "3f419f881c42cffc5fd7",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r1-w800-20110729.txt"
+   ],
+   "date": "2011-07-29",
+   "note": "found by Paweł Morawiecki"
+  },
+  {
+   "kind": "preimage",
+   "width": 1600,
+   "rounds": 1,
+   "target": "0f0af7074b6abd486f80",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r1-w1600-20110729.txt"
+   ],
+   "date": "2011-07-29",
+   "note": "found by Paweł Morawiecki"
+  },
+  {
+   "kind": "preimage",
+   "width": 200,
+   "rounds": 2,
+   "target": "024a5518e1e95db53219",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r2-w200-20230822.txt"
+   ],
+   "date": "2023-08-22",
+   "note": "found by Xiaoen Lin, Hongbo Yu, Zhengrong Lu and Yantian Shen"
+  },
+  {
+   "kind": "preimage",
+   "width": 400,
+   "rounds": 2,
+   "target": "7ab8981ada8fdb60aefd",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r2-w400-20110729.txt"
+   ],
+   "date": "2011-07-29",
+   "note": "found by Paweł Morawiecki"
+  },
+  {
+   "kind": "preimage",
+   "width": 800,
+   "rounds": 2,
+   "target": "828d4d09050e0635075e",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r2-w800-20110729.txt"
+   ],
+   "date": "2011-07-29",
+   "note": "found by Paweł Morawiecki"
+  },
+  {
+   "kind": "preimage",
+   "width": 1600,
+   "rounds": 2,
+   "target": "6390220e7b5d3284d23e",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r2-w1600-20110729.txt"
+   ],
+   "date": "2011-07-29",
+   "note": "found by Paweł Morawiecki"
+  },
+  {
+   "kind": "preimage",
+   "width": 200,
+   "rounds": 3,
+   "target": "d8ed85692afbee4c99ce",
+   "status": "open",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r3-w200-20261121.txt"
+   ],
+   "date": "2026-11-21",
+   "note": "found by Guoxiao Liu and team (but outside of the nominal rounds; this entry is still open)"
+  },
+  {
+   "kind": "preimage",
+   "width": 400,
+   "rounds": 3,
+   "target": "5c9d5e4b385e9c4f8e2e",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r3-w400-20170817.txt"
+   ],
+   "date": "2017-08-17",
+   "note": "found by Yao Sun and Ting Li"
+  },
+  {
+   "kind": "preimage",
+   "width": 800,
+   "rounds": 3,
+   "target": "007bb5c59980660e0293",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r3-w800w1600-20160425.txt"
+   ],
+   "date": "2016-04-25",
+   "note": "found by Jian Guo and Meicheng Liu"
+  },
+  {
+   "kind": "preimage",
+   "width": 1600,
+   "rounds": 3,
+   "target": "0625a34628c0cfe76c75",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r3-w800w1600-20160425.txt"
+   ],
+   "date": "2016-04-25",
+   "note": "found by Jian Guo and Meicheng Liu"
+  },
+  {
+   "kind": "preimage",
+   "width": 200,
+   "rounds": 4,
+   "target": "742c7e3cd9461d0d034e",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 400,
+   "rounds": 4,
+   "target": "0dd25e6de29a42adb358",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r4-w400-20241116.txt"
+   ],
+   "date": "2024-11-16",
+   "note": "found by Xiaoen Lin, Hongbo Yu, Chongxu Ren, Zhengrong Lu and Yantian Shen"
+  },
+  {
+   "kind": "preimage",
+   "width": 800,
+   "rounds": 4,
+   "target": "751a16e5e495e1e2ff22",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r4-w800-20240225.txt"
+   ],
+   "date": "2024-02-25",
+   "note": "found by Xiaoen Lin, Hongbo Yu, Congming Wei, Le He and Chongxu Ren"
+  },
+  {
+   "kind": "preimage",
+   "width": 1600,
+   "rounds": 4,
+   "target": "7daad807f8506c9c0276",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r4-w1600-20161211.txt"
+   ],
+   "date": "2016-12-11",
+   "note": "found by Meicheng Liu and Jian Guo"
+  },
+  {
+   "kind": "preimage",
+   "width": 200,
+   "rounds": 5,
+   "target": "e053f9644faab1da311b",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 400,
+   "rounds": 5,
+   "target": "8df44409b46fb8c61bc4",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 800,
+   "rounds": 5,
+   "target": "6ef2616febb99b1f70ed",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r5-w800-20251018.txt"
+   ],
+   "date": "2025-10-18",
+   "note": "found by Xiaoen Lin, Hongbo Yu, Enming Dong, Wenhao Wu and Yantian Shen"
+  },
+  {
+   "kind": "preimage",
+   "width": 1600,
+   "rounds": 5,
+   "target": "653bc0f87d264f0857d0",
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/pre-r5-w1600-20261119.txt"
+   ],
+   "date": "2026-11-19",
+   "note": "found by Stefan Kölbl"
+  },
+  {
+   "kind": "preimage",
+   "width": 200,
+   "rounds": 6,
+   "target": "e51c00c48ed5db0702b3",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 400,
+   "rounds": 6,
+   "target": "5716e701ef67cc0448b0",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 800,
+   "rounds": 6,
+   "target": "5f9e63884f2e94f1a10e",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 1600,
+   "rounds": 6,
+   "target": "d605335edce7d2caf410",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 200,
+   "rounds": 7,
+   "target": "959325c56773a74a43c6",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 400,
+   "rounds": 7,
+   "target": "9cecce92938aeaba26af",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 800,
+   "rounds": 7,
+   "target": "a4c135219012aac808ed",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 1600,
+   "rounds": 7,
+   "target": "5e0d179c50c2930c0d76",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 200,
+   "rounds": 8,
+   "target": "054ddaf1b9b59b9a60bf",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 400,
+   "rounds": 8,
+   "target": "19c2d8ff69e566a507c9",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 800,
+   "rounds": 8,
+   "target": "f4835d802aabc5be758e",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 1600,
+   "rounds": 8,
+   "target": "34e1812329d5e89d671a",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 200,
+   "rounds": 9,
+   "target": "5ed1a9c184eb72b94546",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 400,
+   "rounds": 9,
+   "target": "78d658dec501eed63b1e",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 800,
+   "rounds": 9,
+   "target": "2edd24587f225c696e61",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 1600,
+   "rounds": 9,
+   "target": "ca186a0fe126edbe2ca6",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 200,
+   "rounds": 10,
+   "target": "c38f618f53a96e4ffd53",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 400,
+   "rounds": 10,
+   "target": "46681a4a3a975b162ac4",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 800,
+   "rounds": 10,
+   "target": "b86db60ff72318766eef",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 1600,
+   "rounds": 10,
+   "target": "df7bf3017cd322a46c31",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 200,
+   "rounds": 11,
+   "target": "19f8e6bc5d7141776595",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 400,
+   "rounds": 11,
+   "target": "129e940f634300f6b414",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 800,
+   "rounds": 11,
+   "target": "a2490a3e68d5d02dd4aa",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 1600,
+   "rounds": 11,
+   "target": "69c94f0ae8304026b3da",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 200,
+   "rounds": 12,
+   "target": "206865eb08b42a6663e1",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 400,
+   "rounds": 12,
+   "target": "855a864596c51caf7d3d",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 800,
+   "rounds": 12,
+   "target": "68edde13a479e14771bd",
+   "status": "open"
+  },
+  {
+   "kind": "preimage",
+   "width": 1600,
+   "rounds": 12,
+   "target": "bf8c8263a987595b21c0",
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 200,
+   "rounds": 1,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r1-w200-20170922.txt"
+   ],
+   "date": "2017-09-22",
+   "note": "found by Roman Walch and Maria Eichlseder"
+  },
+  {
+   "kind": "collision",
+   "width": 400,
+   "rounds": 1,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r1-w400-20110729.txt"
+   ],
+   "date": "2011-07-29",
+   "note": "found by Paweł Morawiecki"
+  },
+  {
+   "kind": "collision",
+   "width": 800,
+   "rounds": 1,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r1-w800-20110729.txt"
+   ],
+   "date": "2011-07-29",
+   "note": "found by Paweł Morawiecki"
+  },
+  {
+   "kind": "collision",
+   "width": 1600,
+   "rounds": 1,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r1-w1600-20110729.txt",
+    "https://keccak.team/crunchy_mails/coll-r1r2-w1600-20110802.txt"
+   ],
+   "date": "2011-07-29",
+   "note": "found by Paweł Morawiecki and, separately, Alexandre Duc, Jian Guo, Thomas Peyrin and Lei Wei"
+  },
+  {
+   "kind": "collision",
+   "width": 200,
+   "rounds": 2,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r2-w200-20230104.txt"
+   ],
+   "date": "2023-01-04",
+   "note": "found by Andreas Westfeld"
+  },
+  {
+   "kind": "collision",
+   "width": 400,
+   "rounds": 2,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r2-w400-20110729.txt"
+   ],
+   "date": "2011-07-29",
+   "note": "found by Paweł Morawiecki"
+  },
+  {
+   "kind": "collision",
+   "width": 800,
+   "rounds": 2,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r2-w800-20110729.txt"
+   ],
+   "date": "2011-07-29",
+   "note": "found by Paweł Morawiecki"
+  },
+  {
+   "kind": "collision",
+   "width": 1600,
+   "rounds": 2,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r2-w1600-20110729.txt",
+    "https://keccak.team/crunchy_mails/coll-r1r2-w1600-20110802.txt"
+   ],
+   "date": "2011-07-29",
+   "note": "found by Paweł Morawiecki and, separately, Alexandre Duc, Jian Guo, Thomas Peyrin and Lei Wei"
+  },
+  {
+   "kind": "collision",
+   "width": 200,
+   "rounds": 3,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 400,
+   "rounds": 3,
+   "status": "closed",
+   "note": "(closed)"
+  },
+  {
+   "kind": "collision",
+   "width": 800,
+   "rounds": 3,
+   "status": "closed",
+   "note": "(closed)"
+  },
+  {
+   "kind": "collision",
+   "width": 1600,
+   "rounds": 3,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r3r4-w1600-20111124.txt"
+   ],
+   "date": "2011-11-24",
+   "note": "found by Itai Dinur, Orr Dunkelman and Adi Shamir"
+  },
+  {
+   "kind": "collision",
+   "width": 200,
+   "rounds": 4,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 400,
+   "rounds": 4,
+   "status": "closed",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r4-w400w800-20130617.txt"
+   ],
+   "date": "2013-06-17",
+   "note": "(closed) yet found by Stefan Kölbl, Florian Mendel, Martin Schläffer and Tomislav Nad"
+  },
+  {
+   "kind": "collision",
+   "width": 800,
+   "rounds": 4,
+   "status": "closed",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r4-w400w800-20130617.txt"
+   ],
+   "date": "2013-06-17",
+   "note": "(closed) yet found by Stefan Kölbl, Florian Mendel, Martin Schläffer and Tomislav Nad"
+  },
+  {
+   "kind": "collision",
+   "width": 1600,
+   "rounds": 4,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r3r4-w1600-20111124.txt"
+   ],
+   "date": "2011-11-24",
+   "note": "found by Itai Dinur, Orr Dunkelman and Adi Shamir"
+  },
+  {
+   "kind": "collision",
+   "width": 200,
+   "rounds": 5,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 400,
+   "rounds": 5,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r5-w400-20261031.txt"
+   ],
+   "date": "2026-10-31",
+   "note": "found by Stefan Kölbl"
+  },
+  {
+   "kind": "collision",
+   "width": 800,
+   "rounds": 5,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r5-w800-20160711.txt"
+   ],
+   "date": "2016-07-11",
+   "note": "found by Kexin Qiao, Ling Song, Meicheng Liu, and Jian Guo"
+  },
+  {
+   "kind": "collision",
+   "width": 1600,
+   "rounds": 5,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r5-w1600-20160527.txt"
+   ],
+   "date": "2016-05-27",
+   "note": "found by Kexin Qiao, Ling Song, Meicheng Liu, and Jian Guo"
+  },
+  {
+   "kind": "collision",
+   "width": 200,
+   "rounds": 6,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 400,
+   "rounds": 6,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 800,
+   "rounds": 6,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r6-w800-20261113.txt"
+   ],
+   "date": "2026-11-13",
+   "note": "found by G. Liu, X. Lin, Z. Lu, Z. Bao, T. Cong, K. Jia, L. Qin, H. Yu and Z. Zhang"
+  },
+  {
+   "kind": "collision",
+   "width": 1600,
+   "rounds": 6,
+   "status": "solved",
+   "evidence": [
+    "https://keccak.team/crunchy_mails/coll-r6-w1600-20170226.txt"
+   ],
+   "date": "2017-02-26",
+   "note": "found by Ling Song, Guohong Liao and Jian Guo"
+  },
+  {
+   "kind": "collision",
+   "width": 200,
+   "rounds": 7,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 400,
+   "rounds": 7,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 800,
+   "rounds": 7,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 1600,
+   "rounds": 7,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 200,
+   "rounds": 8,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 400,
+   "rounds": 8,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 800,
+   "rounds": 8,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 1600,
+   "rounds": 8,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 200,
+   "rounds": 9,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 400,
+   "rounds": 9,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 800,
+   "rounds": 9,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 1600,
+   "rounds": 9,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 200,
+   "rounds": 10,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 400,
+   "rounds": 10,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 800,
+   "rounds": 10,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 1600,
+   "rounds": 10,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 200,
+   "rounds": 11,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 400,
+   "rounds": 11,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 800,
+   "rounds": 11,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 1600,
+   "rounds": 11,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 200,
+   "rounds": 12,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 400,
+   "rounds": 12,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 800,
+   "rounds": 12,
+   "status": "open"
+  },
+  {
+   "kind": "collision",
+   "width": 1600,
+   "rounds": 12,
+   "status": "open"
+  }
+ ]
+}

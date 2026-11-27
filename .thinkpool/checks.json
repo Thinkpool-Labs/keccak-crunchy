@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "runner": "docker",
+  "auto_run": true,
+  "checks": [
+    {
+      "name": "solutions",
+      "description": "Every file in solutions/ is a valid solution, and one solves a Crunchy Contest cell RECORDS.json lists as open, within the nominal rounds. Runs in docker/Dockerfile's image, built once by the host.",
+      "image": "thinkpool-prometheus-py:1",
+      "command": "python -I checker/check_all.py",
+      "mode": "fix",
+      "timeout_s": 600,
+      "protected_paths": [
+        "checker/**",
+        "tests/**",
+        "baselines/**",
+        "docker/**",
+        ".github/**",
+        ".thinkpool/**",
+        "RECORDS.json",
+        "requirements.txt",
+        ".deps/**",
+        "**/*.py",
+        "**/*.pth",
+        ".gitattributes"
+      ],
+      "pass_codes": [
+        0
+      ],
+      "network": false,
+      "share_output": true,
+      "limits": {
+        "memory_mb": 2048,
+        "cpus": 2,
+        "pids": 256,
+        "output_kb": 256,
+        "tmp_mb": 512
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "kind": "collision",
+ "width": 200,
+ "rounds": 2,
+ "start": 3,
+ "messages": [
+  {
+   "hex": "000000000000",
+   "bits": 48
+  },
+  {
+   "hex": "8b",
+   "bits": 8
+  }
+ ],
+ "authors": "Andreas Westfeld (published 2023-01-04, https://keccak.team/crunchy_mails/coll-r2-w200-20230104.txt)",
+ "method": "Reproduced from the designers' published mail. A warm-up: this cell is solved, so it is checked and never credited."
+}
